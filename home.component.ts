@@ -4,7 +4,7 @@ import { Component } from "@angular/core";
   selector: 'home',
   template: `
             <div class="container"><h1>Angular2 Demo</h1>
-              <repo-viewer handle="https://github.com/kurapatijayaram/angular2-rest"></repo-viewer>
+              <repo-viewer commitId="081755a9624629f17cd40dbecc01863528be445e" handle="https://github.com/kurapatijayaram/ng2-github-repo-view"></repo-viewer>
             </div>
             `
 })
